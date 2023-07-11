@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is deployed at [Chat app]([https://github.com/facebook/create-react-app](https://elegant-caramel-9cb86c.netlify.app/)).
+This project is deployed at [Chat app](https://elegant-caramel-9cb86c.netlify.app/).
 
 ## Available Scripts
 
